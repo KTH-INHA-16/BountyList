@@ -16,6 +16,7 @@
 		3BC861FC255AE19A00D31916 /* BountyListUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3BC861FB255AE19A00D31916 /* BountyListUITests.swift */; };
 		3BC86210255AE2C300D31916 /* BountyViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3BC8620F255AE2C300D31916 /* BountyViewController.swift */; };
 		3BC86215255BDEA100D31916 /* DetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3BC86214255BDEA100D31916 /* DetailViewController.swift */; };
+		3BC8621A255D730000D31916 /* BountyInfo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3BC86219255D730000D31916 /* BountyInfo.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		3BC861FD255AE19A00D31916 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		3BC8620F255AE2C300D31916 /* BountyViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BountyViewController.swift; sourceTree = "<group>"; };
 		3BC86214255BDEA100D31916 /* DetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailViewController.swift; sourceTree = "<group>"; };
+		3BC86219255D730000D31916 /* BountyInfo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BountyInfo.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -109,6 +111,7 @@
 				3BC861E4255AE19A00D31916 /* LaunchScreen.storyboard */,
 				3BC861E7255AE19A00D31916 /* Info.plist */,
 				3BC8620F255AE2C300D31916 /* BountyViewController.swift */,
+				3BC86219255D730000D31916 /* BountyInfo.swift */,
 			);
 			path = BountyList;
 			sourceTree = "<group>";
@@ -261,6 +264,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3BC8621A255D730000D31916 /* BountyInfo.swift in Sources */,
 				3BC861DA255AE19900D31916 /* AppDelegate.swift in Sources */,
 				3BC86210255AE2C300D31916 /* BountyViewController.swift in Sources */,
 				3BC861DC255AE19900D31916 /* SceneDelegate.swift in Sources */,
